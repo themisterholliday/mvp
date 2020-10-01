@@ -1,21 +1,21 @@
 {
-  "name": "mvp.css",
-  "version": "1.6.2",
+  "name": "craigaholliday.mvp.css",
+  "version": "1.6.3",
   "description": "A minimalist stylesheet for HTML elements",
   "main": "mvp.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andybrewer/mvp.git"
+    "url": "git+https://github.com/themisterholliday/mvp.git"
   },
   "keywords": [
     "css",
     "stylesheet",
     "mvp"
   ],
-  "author": "Andy Brewer",
+  "author": "Craig A Holliday",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andybrewer/mvp/issues"
+    "url": "https://github.com/themisterholliday/mvp/issues"
   },
   "homepage": "https://andybrewer.github.io/mvp/"
 }
